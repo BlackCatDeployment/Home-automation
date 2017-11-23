@@ -1,5 +1,7 @@
 # Home Automation
-You can find here scripts to manage your home automation devices.
+You can find here scripts to manage my home automation devices.
+The most known script language for home automation is LUA.
+With Domoticz, it's also possible to create events with Blockly or DzVent (LUA based).
 
 # My configuration
 I always wanted to automate my home, but product prices in France for devices like Fibaro or Z-wave are too expensive.
